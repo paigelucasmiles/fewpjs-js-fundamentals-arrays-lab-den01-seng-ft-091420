@@ -8,4 +8,4 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 
 const addToEnd = append.push("Odie")
 
-const addToStart = prepend.shift("Odie")
+const addToStart = prepend.unshift("Odie")
