@@ -11,3 +11,5 @@ const addToEnd = append.push("Odie")
 const addToStart = prepend.unshift("Odie")
 
 const removeLastPet = removeLast.pop()
+
+const removeFirstPet = removeFirst.shift()
