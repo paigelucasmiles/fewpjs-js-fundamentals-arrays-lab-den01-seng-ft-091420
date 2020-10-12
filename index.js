@@ -10,4 +10,4 @@ const addToEnd = append.push("Odie")
 
 const addToStart = prepend.unshift("Odie")
 
-const removeLastCat
+const removeLastCat = removeLast.pop
