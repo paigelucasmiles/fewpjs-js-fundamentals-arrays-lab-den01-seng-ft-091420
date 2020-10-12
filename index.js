@@ -6,4 +6,4 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 
 const removeFirst = ["Milo", "Otis", "Garfield"];
 
-const addToEnd = append.puch("Odie")
+const addToEnd = append.push("Odie")
